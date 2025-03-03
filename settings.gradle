@@ -1,0 +1,6 @@
+rootProject.name = 'netGradle'
+
+include 'db'
+include 'service'
+include 'api'
+
